@@ -1,2 +1,2 @@
 # my-website
-Display of coding projects, keyboards, and gameplay
+My website of coding projects, keyboards, and game highlights.
